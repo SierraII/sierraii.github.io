@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SierraII</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on SierraII</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Dec 2024 13:19:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World!</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sun, 08 Dec 2024 13:19:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;This site serves as &lt;strong&gt;a personal journey of learning and exploration&lt;/strong&gt;, with the hope that any insights shared along the way may also benefit others.&lt;/p&gt;
+&lt;p&gt;While the topics will span multiple different domains and contexts, the following Operating Principles will be held to the highest standard:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Egoless&lt;/strong&gt;: A mindset of collaboration and humility in every aspect of work and learning;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exploration without Intent&lt;/strong&gt;: Encouraging curiosity and discovery, without the pressure of immediate results;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;First make it work, then make it beautiful&lt;/strong&gt;: Prioritize functionality before optimization or aesthetics;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;languages&amp;#34;&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;kotlin&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;go&amp;#34;&lt;/span&gt;],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;interests:&amp;#34;&lt;/span&gt;: [
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;neovim&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;databases&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;kubernetes&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;backend devlopment&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;domain driven design&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;software architectire&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    ],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;codingStart&amp;#34;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;2009-01-01T00:00:00+02:00&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;careerStart&amp;#34;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;2014-12-01T00:00:00+02:00&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I hope that this site will help both you and I in growing into the Engineers we would like to become.&lt;/p&gt;</description>
+      <content>&lt;p&gt;This site serves as &lt;strong&gt;a personal journey of learning and exploration&lt;/strong&gt;, with the hope that any insights shared along the way may also benefit others.&lt;/p&gt;
+&lt;p&gt;While the topics will span multiple different domains and contexts, the following Operating Principles will be held to the highest standard:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Egoless&lt;/strong&gt;: A mindset of collaboration and humility in every aspect of work and learning;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exploration without Intent&lt;/strong&gt;: Encouraging curiosity and discovery, without the pressure of immediate results;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;First make it work, then make it beautiful&lt;/strong&gt;: Prioritize functionality before optimization or aesthetics;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;languages&amp;#34;&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;kotlin&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;go&amp;#34;&lt;/span&gt;],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;interests:&amp;#34;&lt;/span&gt;: [
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;neovim&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;databases&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;kubernetes&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;backend devlopment&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;domain driven design&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;software architectire&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    ],
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;codingStart&amp;#34;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;2009-01-01T00:00:00+02:00&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;#34;careerStart&amp;#34;&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;2014-12-01T00:00:00+02:00&amp;#34;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;I hope that this site will help both you and I in growing into the Engineers we would like to become.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

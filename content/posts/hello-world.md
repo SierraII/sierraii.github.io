@@ -13,12 +13,12 @@ hideComments = true
 color = "" #color from the theme settings
 Toc = false
 +++
+This site serves as **a personal journey of learning and exploration**, with the hope that any insights shared along the way may also benefit others.
 
-The purpose of this site is to **document** and **share** some of my **learnings** over the past decade of Engineering - both as a professional and a hobbiest Software Engineer.
-
-The **title** of the site is not a necessarily a reflection of who I am or who you should become. It simply **serves as a reminder and operating principle for me to adhere to, regardless of the context.**
-
-I hope the content will teach and inspire you to become a better, well rounded Engineer.
+While the topics will span multiple different domains and contexts, the following Operating Principles will be held to the highest standard:
+- **Egoless**: A mindset of collaboration and humility in every aspect of work and learning;
+- **Exploration without Intent**: Encouraging curiosity and discovery, without the pressure of immediate results;
+- **First make it work, then make it beautiful**: Prioritize functionality before optimization or aesthetics;
 
 ```json
 {
@@ -35,3 +35,5 @@ I hope the content will teach and inspire you to become a better, well rounded E
     "careerStart": "2014-12-01T00:00:00+02:00",
 }
 ```
+
+I hope that this site will help both you and I in growing into the Engineers we would like to become.
