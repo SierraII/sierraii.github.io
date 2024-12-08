@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/adriansmith/Documents/workbench/egoless-engineer",
+	"sourceRoot": "/Users/adriansmith/Documents/workbench/sierraii.github.io",
 	"sources": [
 		"css/base.scss",
 		"../../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/mirus-ua/hugo-theme-re-terminal@v1.2.1/assets/css/variables.scss",
