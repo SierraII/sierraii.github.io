@@ -79,18 +79,19 @@ publishDir = "./docs"
       logoText = "SierraII"
       logoHomeLink = "/"
 
-    # [languages.en.menu]
-    #     [[languages.en.menu.main]]
-    #         identifier = "about"
-    #         name = "About"
-    #         url = "/posts/hello-world"
-    #         weight = 2
-    #     [[languages.en.menu.main]]
-    #         identifier = "home"
-    #         name = "Home"
-    #         url = "/"
-    #         weight = 0
-    #
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 1
+      
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/posts/hello-world"
+        weight = 2
+
 [module]
   # this is needed when you fetch the theme as a submodule to your repo.
   # replacements = "github.com/mirus-ua/hugo-theme-re-terminal -> themes/re-terminal"
