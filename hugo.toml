@@ -1,7 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sierraii.github.io'
 languageCode = 'en-us'
 title = 'SierraII'
-subtitle = "Egoless Engineering"
 aginate = 5
 publishDir = "./docs"
 

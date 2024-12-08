@@ -15,6 +15,8 @@ Toc = false
 +++
 This site serves as **a personal journey of learning and exploration**, with the hope that any insights shared along the way may also benefit others.
 
+Most pages will act as living documents and get updated with new learnings and findings. 
+
 While the topics will span multiple different domains and contexts, the following Operating Principles will be held to the highest standard:
 - **Egoless**: A mindset of collaboration and humility in every aspect of work and learning;
 - **Exploration without Intent**: Encouraging curiosity and discovery, without the pressure of immediate results;
