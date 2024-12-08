@@ -1,12 +1,12 @@
 +++
-title = "Hello, World!"
+title = "Hello, world!"
 date = "2024-12-08T13:19:00+02:00"
 author = "SierraII"
 authorTwitter = "" #do not include @
 cover = ""
 tags = []
 keywords = ["", ""]
-description = ""
+summary = "A brief introduction to the site, sharing the purpose of the blog and what visitors can expect."
 showFullContent = false
 readingTime = true
 hideComments = true
@@ -29,7 +29,7 @@ While the topics will span multiple different domains and contexts, the followin
         "neovim",
         "databases",
         "kubernetes",
-        "backend devlopment",
+        "backend development",
         "domain driven design",
         "software architectire",
     ],
