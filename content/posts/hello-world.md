@@ -29,7 +29,7 @@ While the topics will span multiple different domains and contexts, the followin
         "neovim",
         "databases",
         "kubernetes",
-        "backend devlopment",
+        "backend development",
         "domain driven design",
         "software architectire",
     ],
